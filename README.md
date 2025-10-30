@@ -20,7 +20,7 @@ CSS3
 
 ## Usage
 
-No installation required! Simply clone this repository and open index.html in your browser.
+No installation required! Simply clone this repository and open ytb-webpage.html in your browser.
 
 Then, open the index.html file in your browser.
 
