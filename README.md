@@ -18,6 +18,8 @@ CSS3
 
 * Accurate CSS design
 
+* Dynamic page sizing
+
 ## Usage
 
 No installation required! Simply clone this repository and open ytb-webpage.html in your browser.
@@ -25,4 +27,4 @@ No installation required! Simply clone this repository and open ytb-webpage.html
 Then, open the index.html file in your browser.
 
 ## 🤝 Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to add.
