@@ -2,7 +2,7 @@
 
 Im starting this project to gain more skills with HTML and CSS, specifically utilizing divs, nested layouts, and flexbox configuration. More features will be added as time progresses.
 
-**BEWARE:** This is part of a learning series and will involve vile looking code.
+**BEWARE:** This is part of a learning series...
 
 ## 🛠️ Tech Stack
 
